@@ -40,3 +40,6 @@
 [submodule "editor/graphviz"]
 	path = editor/graphviz
 	url = git@github.com:ellson/graphviz.git
+[submodule "scala/scala"]
+	path = scala/scala
+	url = git@github.com:scala/scala.git
