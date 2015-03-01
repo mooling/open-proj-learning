@@ -1,0 +1,42 @@
+[submodule "apache/spark"]
+	path = apache/spark
+	url = git@github.com:apache/spark.git
+[submodule "apache/hadoop"]
+	path = apache/hadoop
+	url = git@github.com:apache/hadoop.git
+[submodule "apache/hbase"]
+	path = apache/hbase
+	url = git@github.com:apache/hbase.git
+[submodule "editor/spf13-vim"]
+	path = editor/spf13-vim
+	url = git@github.com:spf13/spf13-vim.git
+[submodule "apache/flink"]
+	path = apache/flink
+	url = git@github.com:apache/flink.git
+[submodule "apache/hive"]
+	path = apache/hive
+	url = git@github.com:apache/hive.git
+[submodule "apache/tez"]
+	path = apache/tez
+	url = git@github.com:apache/tez.git
+[submodule "editor/emacs.d"]
+	path = editor/emacs.d
+	url = git@github.com:purcell/emacs.d.git
+[submodule "apache/kafka"]
+	path = apache/kafka
+	url = git@github.com:apache/kafka.git
+[submodule "apache/ambari"]
+	path = apache/ambari
+	url = git@github.com:apache/ambari.git
+[submodule "apache/mesos"]
+	path = apache/mesos
+	url = git@github.com:apache/mesos.git
+[submodule "apache/cassandra"]
+	path = apache/cassandra
+	url = git@github.com:apache/cassandra.git
+[submodule "apache/sqoop"]
+	path = apache/sqoop
+	url = git@github.com:apache/sqoop.git
+[submodule "editor/graphviz"]
+	path = editor/graphviz
+	url = git@github.com:ellson/graphviz.git
